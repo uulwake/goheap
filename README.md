@@ -4,7 +4,7 @@ Priority Queue package for Go
 
 # How to Use
 
-Read goheap_test.go
+Read `goheap_test.go`
 
 # Install
 
